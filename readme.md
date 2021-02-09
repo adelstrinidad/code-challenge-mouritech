@@ -37,6 +37,8 @@ Email: adelquis.trinidad@gmail.com
 
 ## Test applied
 
+For looking about the test, please go to [test.js](test.js) file.
+
 * Verify sending a positive array - **Data: [0,6,9,0,8,4,1]** 
 * Verify sending a positive array with repeated numbers - **Data: [0,6,8,9,4,0,8,4,1]** 
 * Verify sending an array with negative and positive numbers - **Data: [0,6,-8,9,4,0,8,-4,1]** 
