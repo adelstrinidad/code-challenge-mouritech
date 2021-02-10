@@ -12,6 +12,7 @@ Here you will find the resolution of exercise 4 of the code challenge
 * NodeJs v12.16.2
 * JavaScript ES6
 * NPM 6.14.5
+* Test runner: Mocha
 
 ### Installing
 
